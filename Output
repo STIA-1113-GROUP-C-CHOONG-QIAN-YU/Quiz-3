@@ -1,0 +1,52 @@
+1-Input element to array
+2-Display element to array
+3-Search element in array
+4-Sort the array
+Please enter 1-4 to select your choice: 
+1
+Enter 6 element for array: 
+1 2 3 4 5 6
+-------------------------------------------------------------------------
+1-Input element to array
+2-Display element to array
+3-Search element in array
+4-Sort the array
+Please enter 1-4 to select your choice: 
+2
+The element in array are: 
+Enter 6 element for array: 
+1 2 3 4 5 6
+1 
+2 
+3 
+4 
+5 
+6 
+-------------------------------------------------------------------------
+1-Input element to array
+2-Display element to array
+3-Search element in array
+4-Sort the array
+Please enter 1-4 to select your choice: 
+3
+Enter 6 element for array: 
+1 2 3 4 5 6
+Please enter the element you want to find:
+4
+4 is found.
+----------------------------------------------------------------------
+1-Input element to array
+2-Display element to array
+3-Search element in array
+4-Sort the array
+Please enter 1-4 to select your choice: 
+4
+Enter 6 element for array: 
+1 2 3 4 5 6
+Element of array sorted in ascending order: 
+1 
+2 
+3 
+4 
+5 
+6 
